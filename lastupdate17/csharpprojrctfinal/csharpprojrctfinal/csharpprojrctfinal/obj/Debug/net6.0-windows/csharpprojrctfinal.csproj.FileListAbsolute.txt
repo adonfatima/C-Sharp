@@ -1,0 +1,266 @@
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.option.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.adminlogin.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.userlogin.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyerlogin.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellerlogin.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Rasseller.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Rasbuyer.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\csharp\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.adminlogin.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyerlogin.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.option.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Rasbuyer.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Rasseller.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellerlogin.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.userlogin.resources
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\ASUS\Downloads\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinal (2) (2)\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.sellerreg.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.sellerreg.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.sellerreg.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.bill.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.bill.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.sellerreg.resources
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\csharpprojrctfinalup\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.adsellview.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.adsellview.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.bill.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.sellerreg.resources
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\ASUS\OneDrive\Documents\C# projects\EMon\lastup14\lastupadtecsharp\csharpprojrctfinalup8\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.exe
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.deps.json
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.runtimeconfig.json
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Adminmenu.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.adsellview.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Alllogin.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.bill.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Buyermenu.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.home.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Properties.Resources.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Registration.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.Sellermenu.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.sellerreg.resources
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.AssemblyInfo.cs
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.csproj.CopyComplete
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\refint\csharpprojrctfinal.dll
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.pdb
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\csharpprojrctfinal.genruntimeconfig.cache
+C:\Users\USER\Downloads\C#final\lastupdate17\csharpprojrctfinal\csharpprojrctfinal\csharpprojrctfinal\obj\Debug\net6.0-windows\ref\csharpprojrctfinal.dll
